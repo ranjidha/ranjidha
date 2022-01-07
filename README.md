@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ranjidha
-- 👀 I’m interested in Computational Models for Collaborative Analytics,Computational Models for CoI
+- 👀 I’m interested in Computational Models for Collaborative Analytics,Computational Models for CoI, SPM
 - 🌱 I’m currently learning CoI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
